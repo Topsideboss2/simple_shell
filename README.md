@@ -1,4 +1,4 @@
-# Simple Shell [Licence: MIT](https://github.com/kwamboka1/simple_shell/blob/main/LICENSE)
+# Simple Shell [Licence: MIT](https://github.com/Topsideboss2/simple_shell/blob/master/LICENSE)
 
 This is a simple UNIX command interpreter based on bash and Sh.
 ## Overview
